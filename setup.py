@@ -47,7 +47,8 @@ setup(
         'pandas',
         'matplotlib',
         'jupyter',
-        'gekko'
+        'gekko',
+		'python-libsbml'
     ],
     tests_require=[
         'pytest'
